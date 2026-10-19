@@ -1,3 +1,5 @@
 # digital-portfolio
 # INTRODUCTION TO ME
 I am a first year college student studying a T-Level in Digital Support and Security, mainly focusing on IT diagnostics, system support and cybersecurity practices. With a background in strong communication, teamwork and quick learning, I am confident in applying my technical education to real world IT solutions and connecting with professionals across the digital support sector.
+# ABOUT ME
+As a T-Level Digital Support and Security student, my passion for computing is rooted in practical experience with both hardware assembly and basic line software troubleshooting. I thrive in collaborative settings, leveraging strengths in teamwork, communcation, problem solving and adaptability to work through technical challenges. While I am continously expanding my subject knowledge (specifically key details in key terms) I enjoy applying my problem-solving mindset across all areas of my life, whether I am making sure everything is perfect in a system setup, mountain biking, or gaming.
